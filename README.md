@@ -1,3 +1,3 @@
-# migra-test2
+# sails migrations playground repo
 
 a [Sails](http://sailsjs.org) application
